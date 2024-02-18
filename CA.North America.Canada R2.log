@@ -1,0 +1,23 @@
+Sat Jan 20 18:04:32 2024 UrbanVPN 2.3.0 x86_64-w64-mingw32 [SSL (OpenSSL)] [LZO] [LZ4] [PKCS11] [AEAD] built on Dec 21 2023
+Sat Jan 20 18:04:32 2024 Windows version 6.2 (Windows 8 or greater) 64bit
+Sat Jan 20 18:04:32 2024 library versions: OpenSSL 1.1.0h  27 Mar 2018, LZO 2.10
+Enter Management Password:
+Sat Jan 20 18:04:32 2024 WARNING: No server certificate verification method has been enabled.  See http://openvpn.net/howto.html#mitm for more info.
+Sat Jan 20 18:04:33 2024 TCP/UDP: Preserving recently used remote address: [AF_INET]192.99.5.161:443
+Sat Jan 20 18:04:33 2024 Attempting to establish TCP connection with [AF_INET]192.99.5.161:443 [nonblock]
+Sat Jan 20 18:04:34 2024 TCP connection established with [AF_INET]192.99.5.161:443
+Sat Jan 20 18:04:34 2024 TCP_CLIENT link local: (not bound)
+Sat Jan 20 18:04:34 2024 TCP_CLIENT link remote: [AF_INET]192.99.5.161:443
+Sat Jan 20 18:04:34 2024 WARNING: this configuration may cache passwords in memory -- use the auth-nocache option to prevent this
+Sat Jan 20 18:04:35 2024 [biscience.com] Peer Connection Initiated with [AF_INET]192.99.5.161:443
+Sat Jan 20 18:04:37 2024 Flag 'def1' added to --redirect-gateway (iservice is in use)
+Sat Jan 20 18:04:37 2024 open_tun
+Sat Jan 20 18:04:37 2024 TAP-WIN32 device [РџРѕРґРєР»СЋС‡РµРЅРёРµ РїРѕ Р»РѕРєР°Р»СЊРЅРѕР№ СЃРµС‚Рё] opened: \\.\Global\{C6C01457-5176-4DED-A3C8-FD52A1649910}.tap
+Sat Jan 20 18:04:37 2024 Notified TAP-Windows driver to set a DHCP IP/netmask of 10.10.0.70/255.255.255.252 on interface {C6C01457-5176-4DED-A3C8-FD52A1649910} [DHCP-serv: 10.10.0.69, lease-time: 31536000]
+Sat Jan 20 18:04:37 2024 Successful ARP Flush on interface [8] {C6C01457-5176-4DED-A3C8-FD52A1649910}
+Sat Jan 20 18:04:37 2024 do_ifconfig, tt->did_ifconfig_ipv6_setup=0
+Sat Jan 20 18:04:37 2024 Blocking outside dns using service succeeded.
+Sat Jan 20 18:04:42 2024 ROUTE: route addition failed using service: Этот объект уже существует.   [status=5010 if_index=8]
+Sat Jan 20 18:04:42 2024 Initialization Sequence Completed
+Sat Jan 20 18:22:18 2024 Unblocking outside dns using service succeeded.
+Sat Jan 20 18:22:18 2024 SIGTERM[hard,] received, process exiting
